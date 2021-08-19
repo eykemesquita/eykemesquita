@@ -1,9 +1,5 @@
 ### Oiee!!! Me chamo Eyke Mesquita
 
-- 🔭 Hoje trabalho com back-end
-- 🌱 Estudando Python
-- 😄 Pronouns: ele/dele
-
  <div>
   <a href="https://github.com/eykemesquita">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=eykemesquita&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
