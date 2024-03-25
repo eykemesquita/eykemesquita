@@ -27,27 +27,27 @@
   <a href="https://www.linkedin.com/in/eykemesquita/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
-  <a href="https://salesp07.github.io" target="_blank">
-     <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white"/> <!-- sqlite, safari, google-chrome are other good icon options -->
+  <a href="SITE DO PORTIFÓLIO">
+     <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white"/>
   </a>
 </div>
 
  <hr/>
  
-<h2 align="center">⚒️ Languages-Frameworks-Tools ⚒️</h2>
+<h2 align="center">⚒️ Ferramentas Linguagem-Frameworks ⚒️</h2>
 <br/>
 <div align="center">
-    <img src="https://skillicons.dev/icons?i=react,bootstrap,mui,html,css,vscode,github,figma,tailwind,git,r" />
-    <img src="https://skillicons.dev/icons?i=nodejs,python,javascript,typescript,express,firebase,mongodb,c,java,nextjs,mysql,flask" /><br>
+    <img src="https://skillicons.dev/icons?i=java,spring,py,cs,dotnet,html,css,angular,bootstrap,react" />
+    <img src="https://skillicons.dev/icons?i=unreal,vscode,idea,git,github,mongodb,mysql,firebase,postgres,aws,docker" /><br>
 </div>
 
 <br/>
 <hr/>
 
 <div align="center">
-  <h2>🐍 My Contributions 🐍</h2>
+  <h2>🐍 Minhas Contribuições 🐍</h2>
   <br>
-  <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/salesp07/salesp07/output/github-contribution-grid-snake.svg" />
+  <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/eykemesquita/eykemesquita/output/github-contribution-grid-snake.svg" />
   
   <br/><br/><br/>
 </div>
