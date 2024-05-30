@@ -10,7 +10,7 @@
 
 <div align="center">
  
- 🔭 Atualmente estagiando na **INCODE**
+ 🔭 Atualmente estagiando no **SENAC (Serviço Nacional de Aprendizagem Comercial)**
  
  🌱 Atualmente aprendendo **Java, Springboot, AWS**
 
