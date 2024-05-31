@@ -4,7 +4,7 @@
     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Eae+Belezinha!?+👋;+Me+chamo+Eyke+Mesquita!;" />
 </h1>
 
-<h3 align="center">Desenvolvedor Java</h3>
+<h3 align="center">Desenvolvedor Java ☕</h3>
 
 <br/>
 
@@ -38,7 +38,7 @@
 <br/>
 <div align="center">
     <img src="https://skillicons.dev/icons?i=java,spring,html,css,angular,bootstrap,react" />
-    <img src="https://skillicons.dev/icons?i=eclipse,vscode,idea,git,github,mongodb,docker,mysql,firebase,postgres,aws" /><br>
+    <img src="https://skillicons.dev/icons?i=eclipse,idea,git,github,mongodb,docker,mysql,firebase,postgres,aws" /><br>
 </div>
 
 <br/>
