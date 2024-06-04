@@ -16,7 +16,7 @@
 
 💬 Me pergunte sobre **Java, Springboot, AWS... ou qualquer outra coisa [aqui](https://github.com/eykemesquita/eykemesquita/issues)**
 
-⚡ Fatos Engraçados: **Pandas comem o tempo todo :panda_face:**
+⚡ Fato Curioso: **A linguagem Java tem apenas 52 palavras reservadas :coffee:**
 
  </div>
  
