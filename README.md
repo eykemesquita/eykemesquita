@@ -9,7 +9,7 @@
 - 💼 Backend Java Developer (Spring Boot) at CVLB
 - 🧠 Focused on clean code, software architecture and best practices
 - 📈 Constantly improving my skills in backend development and system design
-- 🇧🇷 Based in São Paulo, Brazil
+- 🇧🇷 Based in São Luís, Brazil
 
 ---
 
