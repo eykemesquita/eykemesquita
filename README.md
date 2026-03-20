@@ -1,14 +1,16 @@
 # 👋 Hi, I'm Eyke Mesquita
 
-💻 Backend Java Developer focused on building scalable and high-performance systems.
+---
+
+💻 💻 Backend Java Developer specializing in scalable and high-performance systems.
 
 ---
 
 ## 🚀 About Me
 
 - 💼 Backend Java Developer (Spring Boot) at CVLB
-- 🧠 Focused on clean code, software architecture and best practices
-- 📈 Constantly improving my skills in backend development and system design
+- 🧠 Focused on clean code, software architecture and best practices  
+- 🚀 Constantly improving in backend development and system design
 - 🇧🇷 Based in São Luís, Brazil
 
 ---
@@ -18,6 +20,7 @@
 **Backend**
 - Java
 - Spring Boot
+- JPA / Hibernate
 - REST APIs
 
 **Database**
@@ -34,7 +37,7 @@
 
 ## 📌 Featured Projects
 
-> 🚧 Currently organizing and refining my main projects — coming soon.
+> 🚧 Currently building and refining backend projects to showcase architecture, performance and best practices.
 
 ---
 
