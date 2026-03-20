@@ -2,7 +2,7 @@
 
 ---
 
-💻 💻 Backend Java Developer specializing in scalable and high-performance systems.
+ 💻 Backend Java Developer specializing in scalable and high-performance systems.
 
 ---
 
